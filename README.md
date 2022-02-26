@@ -1,5 +1,5 @@
-# minimal-repo-starter
+# empty-starter
 
 ## License
 
-MIT @ [2nthony](https://github.com/2nthony)
+MIT © [2nthony](https://github.com/2nthony)
